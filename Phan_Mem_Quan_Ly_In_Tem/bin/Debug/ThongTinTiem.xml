@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <ThongTinTiem>
+    <TenTiem>Tiệm Vàng ABC</TenTiem>
+    <DiaChi>460/5 - Đường số 3 - Tân An</DiaChi>
+    <CongCOM>COM4</CongCOM>
+    <FileExcel>E:\LamPhanMem\QuanLyCamDo_New\Phan_Mem_Quan_Ly_Cam_Do\Phan_Mem_Quan_Ly_In_Tem\bin\Debug\InMaVach.xlsx</FileExcel>
+    <MayIn>BIXOLON SLP-T403</MayIn>
+  </ThongTinTiem>
+</NewDataSet>
